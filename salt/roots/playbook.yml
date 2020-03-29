@@ -1,0 +1,7 @@
+- hosts: 127.0.0.1
+  connection: local
+  sudo: true
+  vars:
+    - snort_barnyard2_enable: true
+  roles:
+    - role: mrlesmithjr.snort

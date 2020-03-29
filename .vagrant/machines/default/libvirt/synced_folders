@@ -1,0 +1,1 @@
+{"rsync":{"/srv/salt/":{"guestpath":"/srv/salt","hostpath":"/home/davi/vms/ubuntu-salt-snort/salt/roots","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"},"/srv/pillar":{"guestpath":"/srv/pillar","hostpath":"/home/davi/vms/ubuntu-salt-snort/salt/pillar","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
